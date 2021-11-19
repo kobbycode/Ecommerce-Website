@@ -30,6 +30,7 @@ body {
 }
 
 header {
+  padding: 1rem;
   grid-area: header;
   background-color: #203040;
 }
@@ -40,6 +41,7 @@ main {
 }
 
 footer {
+  padding: 1rem;
   grid-area: footer;
   background-color: #203040;
   color: #fff;
