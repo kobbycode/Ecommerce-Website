@@ -5,13 +5,13 @@ function App() {
     <div classNameName="grid-container">
       <header className="row">
         <div>
-          <a className="logo" href="index.html">
+          <a className="logo" href="/">
             K-Store
           </a>
         </div>
         <div>
-          <a href="cart.html">Cart</a>
-          <a href="signin.htm">Sign In</a>
+          <a href="/cart">Cart</a>
+          <a href="/signin">Sign In</a>
         </div>
       </header>
       <main>
